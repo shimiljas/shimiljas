@@ -2,9 +2,9 @@
 <h3 align="center">Mobile Application Developer with REACT NATIVE experience 😜</h3>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/shimiljas?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/shimil-jas/)]
-[linkedin]
+![GitHub followers](https://img.shields.io/github/followers/shimiljas?logo=GitHub&style=for-the-badge)
+![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/shimil-jas/)
+
 
 - 🔭 I’m currently working on Youtube
 - 🌱 I’m currently learning Ruby and rails
