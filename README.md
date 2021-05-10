@@ -1,6 +1,5 @@
 
-   ### Hi 👋  ,  I'm SHIMIL JAS !
-
+   ### Here is what I am working on it ! 👋  ,
 
 - 🔭 I’m currently working on Youtube
 - 🌱 I’m currently learning Ruby and rails
