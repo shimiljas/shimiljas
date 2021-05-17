@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Youtube
+- 🔭 I’m currently working on Youtube (content creation)
 - 🌱 I’m currently learning Ruby and rails
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with Flutter 
