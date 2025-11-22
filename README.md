@@ -1,16 +1,47 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/shimil.jas.c.p">SHIMIL JAS !</a></h1>
-<h3 align="center">Mobile Application Developer with REACT NATIVE experience 😜</h3>
+# Hi 👋, I'm SHIMIL JAS !
 
+## Mobile Application Developer with REACT NATIVE experience 📱
 
+I'm a Software Engineer at Cashfree, specializing in mobile payment applications and cloud infrastructure optimization.
 
-- 🔭 I’m currently working on Youtube (content creation)
-- 🌱 I’m currently learning Ruby and rails
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with Flutter 
-- 📫 How to reach me:  iamshimil@gmail.com
-- ⚡ I am one of the early adopters of Flutter, it has been more than 5 years
+### 🚀 What I'm up to:
+- 🔧 Building payment processing systems at Cashfree
+- 📱 Working on React Native apps with TypeScript
+- ☁️ Optimizing AWS infrastructure and costs
+- 🎥 Creating tech content on [JAS ACADAMY YouTube Channel](https://www.youtube.com/@JASACADAMY)
+- 🌱 Learning Ruby and Rails
 
-<a href="https://github.com/shimiljas">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shimiljas&layout=compact&theme=radical" />
-</a>
+### 💼 Professional Experience:
+- **Current Role:** Software Engineer at Cashfree
+- **Focus Areas:** Mobile payments, React Native, AWS services
+- **Experience:** 10+ years in JavaScript development
 
+### 🛠️ Tech Stack:
+- **Mobile:** React Native, TypeScript, iOS/Android Native Modules
+- **Backend:** Node.js, GraphQL, REST APIs
+- **Cloud:** AWS (S3, CloudFront, Lambda)
+- **Tools:** Git, Docker, Firebase, CocoaPods
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimiljascf&show_icons=true&theme=dark)
+
+### 🏆 Recent Projects:
+- 🚀 [S3 Cache-Control Manager](https://github.com/shimiljascf/s3-cache-update) - Python script for managing S3 cache headers at scale
+- 💰 Building e-commerce solutions for D2C brands
+- 📱 Developing mobile app widgets for payment platforms
+
+### 📫 How to reach me:
+- 📧 Email: iamshimil@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shimil-jas/)
+- 🐦 Twitter: [@shimiljascf](https://twitter.com/shimiljascf)
+- 🎥 YouTube: [JAS ACADAMY](https://www.youtube.com/@JASACADAMY)
+
+### 🎯 Looking to collaborate on:
+- Open source projects
+- Mobile app development
+- Cloud infrastructure optimization
+- Content creation
+
+---
+
+⭐️ From [shimiljascf](https://github.com/shimiljascf)
