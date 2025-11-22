@@ -22,8 +22,6 @@ I'm a Software Engineer at Cashfree, specializing in mobile payment applications
 - **Cloud:** AWS (S3, CloudFront, Lambda)
 - **Tools:** Git, Docker, Firebase, CocoaPods
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimiljascf&show_icons=true&theme=dark)
 
 
 ### 📫 How to reach me:
