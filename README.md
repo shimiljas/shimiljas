@@ -25,15 +25,10 @@ I'm a Software Engineer at Cashfree, specializing in mobile payment applications
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimiljascf&show_icons=true&theme=dark)
 
-### 🏆 Recent Projects:
-- 🚀 [S3 Cache-Control Manager](https://github.com/shimiljascf/s3-cache-update) - Python script for managing S3 cache headers at scale
-- 💰 Building e-commerce solutions for D2C brands
-- 📱 Developing mobile app widgets for payment platforms
 
 ### 📫 How to reach me:
 - 📧 Email: iamshimil@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shimil-jas/)
-- 🐦 Twitter: [@shimiljascf](https://twitter.com/shimiljascf)
 - 🎥 YouTube: [JAS ACADAMY](https://www.youtube.com/@JASACADAMY)
 
 ### 🎯 Looking to collaborate on:
@@ -44,4 +39,3 @@ I'm a Software Engineer at Cashfree, specializing in mobile payment applications
 
 ---
 
-⭐️ From [shimiljascf](https://github.com/shimiljascf)
